@@ -1,8 +1,8 @@
-# nfoslide.sh
+# nfo-slideshow.sh
 
 A secure, terminal-based slideshow of random NFO and ANSI art from the [16colo.rs](https://16colo.rs) artpack archive. 
 
-`nfoslide.sh` roams decades of ANSI/ASCII art, fetching and rendering pieces directly in your terminal without ever writing to disk.
+`nfo-slideshow.sh` roams decades of ANSI/ASCII art, fetching and rendering pieces directly in your terminal without ever writing to disk.
 
 ## ✨ Features
 
