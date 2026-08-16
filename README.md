@@ -1,4 +1,3 @@
-```markdown
 # nfoslide.sh
 
 A secure, terminal-based slideshow of random NFO and ANSI art from the [16colo.rs](https://16colo.rs) artpack archive. 
